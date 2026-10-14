@@ -1,0 +1,17 @@
+{
+  "active": true,
+  "domains": ["tf-widgets.com", "*.tf-widgets.com"],
+  "widget": "compare",
+  "heading": "Our recent work",
+  "pairs": [
+    { "before": "https://before-after.tf-widgets.com/demo/before.svg", "after": "https://before-after.tf-widgets.com/demo/after.svg", "title": "Living room makeover", "text": "New floor, walls and lighting in 3 weeks." }
+  ],
+  "labels": { "show": true, "before": "Before", "after": "After" },
+  "start": 50,
+  "ratio": "3:2",
+  "hint": true,
+  "style": {
+    "colors": { "background": "", "text": "#111827", "handle": "#ffffff", "accent": "#2563eb" },
+    "sizes": { "maxWidth": 900, "radius": 16 }
+  }
+}
